@@ -1,6 +1,6 @@
 {
-  "name":"HUNCHO-MDV2",
-  "description":"bot whatsapp développé by Keith Keizzah",
+  "name":"Xyber-fork",
+  "description":"bot whatsapp développé by kidd",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/835c3a335c8e2585898fc.jpg",
   "repository":"https://github.com/Keithkeizzah/HUNCHO-MD",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐇𝐔𝐍𝐂𝐇𝐎 𝐌𝐃",
+      "value":"Xyber-fork",
       "required":false
 
     } ,
@@ -50,7 +50,7 @@
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
       "value":"yes",
-      "required":false
+      "required":true
     }
 	,
     "HEROKU_API_KEY": {
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐊𝐞𝐢𝐭𝐡 𝐊𝐞𝐢𝐳𝐳𝐚𝐡"
+    "value": "𝐊idd"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254748387615,254748387615"
+    "value": "2349066052477,29071078744"
   },
     "WARN_COUNT":
   {
